@@ -1,0 +1,12 @@
+Git Workflow (for Part II):
+
+1. Added files:
+   git add .
+
+2. Committed changes:
+   git commit -m "Added numbered user list page"
+
+3. Pushed changes repository:
+   git push 
+
+4. Verified files on GitHub.
