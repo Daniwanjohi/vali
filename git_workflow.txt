@@ -4,7 +4,7 @@ Git Workflow (for Part II):
    git add .
 
 2. Committed changes:
-   git commit -m "Added numbered user list page"
+   git commit -m "Added numbered user list"
 
 3. Pushed changes repository:
    git push 
